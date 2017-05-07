@@ -129,4 +129,4 @@ for($i=0;$i<count($output);$i++){
 echo round($finalscore, 2); 
 }
 
-else "fuck off" ;
+else "nill" ;
